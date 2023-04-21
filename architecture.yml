@@ -1,0 +1,13 @@
+elements:
+  - id: user
+    name: User
+    role: actor
+    description: Userrrrrr
+    relationships:
+      - target: system
+        description: Uses
+  - id: system
+    name: Bingbing
+    role: system
+    description: This is a test project
+specVersion: '0.1'
