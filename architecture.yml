@@ -2,7 +2,7 @@ elements:
   - id: user
     name: User
     role: actor
-    description: User changed
+    description: User updated
     relationships:
       - target: system
         description: Uses
