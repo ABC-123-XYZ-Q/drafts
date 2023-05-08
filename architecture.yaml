@@ -2,7 +2,7 @@ elements:
   - id: user
     name: User
     role: actor
-    description: User should not trigger change
+    description: User should not trigger change again
     relationships:
       - target: system
         description: Uses
